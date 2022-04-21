@@ -13,4 +13,8 @@ Donation can be made to any of the following wallet addresses. Donors will be la
 
 **Terra Station Wallet** (Supports LUNA/UST/etc.)
 
-terra1zg3pxrenxuzg3t67emkndzsxurgfvz6pm0ce2h
+**terra1zg3pxrenxuzg3t67emkndzsxurgfvz6pm0ce2h**
+
+**Ethereum/MATIC** (Supports all ERC Tokens as well including USDT, USDC, etc.)
+
+**0x36B8607f8253383899866C0A2530EE6B08575808**
